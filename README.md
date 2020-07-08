@@ -1,24 +1,21 @@
-# Crazy Banner
-#Script by Sutariya Parixit
+# termuxBanner
+#Script by MOHAN MASS MV
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Crazy-Banner
+1) git clone https://github.com/Mohan-MV/termuxBanner
 
 
-2) cd Crazy-Banner
+2) cd termuxBanner
 
 
-3) chmod +x requirement.sh
+3) chmod +x *
 
 
-4) chmod +x c-banner.sh
+4) bash requirement.sh
 
 
-5) bash requirement.sh
-
-
-6) bash c-banner.sh
+5) bash c-banner.sh
 
 
 7) goto /sdcard/jkr/c-ban.sh and add Your ASCII art than save without any modification 😅
